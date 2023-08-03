@@ -1,15 +1,14 @@
-<h1>おはよう、It</h1>
+<h1>おはよう、It㌧</h1>
 <h3>
-  University Student('24)
+  24卒文系大学生
   <br />
   エンジニアの卵として日々勉強中🧑🏻‍💻
 </h3>
 
 <!-- トロフィー部分（ザコいから消している） -->
-<!-- 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ittookumura&label=Profile%20views&color=0e75b6&style=flat" alt="ittookumura" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ittookumura" alt="ittookumura" /></a> </p> -->
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ittookumura" alt="ittookumura" /></a> </p> 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
