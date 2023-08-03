@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm Itto Okumura</h1>
+<h1>おはよう、It</h1>
 <h3>
   University Student('24)
   <br />
