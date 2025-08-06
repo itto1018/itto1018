@@ -7,7 +7,7 @@
 
 ![It's GitHub stats](https://github-readme-stats.vercel.app/api?username=itto1018&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itto1018&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itto1018&layout=donut-vertical)
 
 <h3 align="left">Languages and Tools:</h3>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
