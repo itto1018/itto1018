@@ -1,24 +1,28 @@
-<h1>おはよう、It㌧</h1>
-<h3>
-  24卒文系大学生
-  <br />
-  エンジニアの卵として日々勉強中🧑🏻‍💻
-</h3>
+<h1>Profile</h1>
 
-![It's GitHub stats](https://github-readme-stats.vercel.app/api?username=itto1018&show_icons=true&theme=radical)
+- 24卒文系大学生（経済学部 統計学専攻）
+- 事業会社のデータエンジニア兼データアナリスト<br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itto1018&layout=donut-vertical)
+<h1>Languages and Tools:</h3>
+<h2>WebEngineer<h2>
+  
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,nextjs,firebase,vercel)](https://skillicons.dev)
 
-<h3 align="left">Languages and Tools:</h3>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
-  <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> 
-  <a href="https://rubyonrails.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/> </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-</p>
+<h2>DataEngineer</h2>
+
+[![My Skills](https://skillicons.dev/icons?i=postgres,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,sklearn)](https://skillicons.dev)
+
+<p>※DWHはSnowflakeを使っています</p>
+
+<h2>Infrastructure</h2>
+
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,linux,ubuntu)](https://skillicons.dev)
+
+<h2>Tools</h2>
+
+[![My Skills](https://skillicons.dev/icons?i=git,github,githubactions,vscode,notion)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=apple,windows)](https://skillicons.dev)
+
+<p>※プロジェクト管理ツールにBacklogを利用しています</p>
